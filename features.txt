@@ -1,0 +1,2 @@
+Feature: Product Search
+This feature demonstrates Git branching and merging.
